@@ -121,7 +121,7 @@ img-block{
 }
 
 .main-page {
-    background-image: url(/content/images/main.jpg);
+    background-image: url(../images/main.jpg);
     background-size: cover;
 }
 
@@ -293,7 +293,7 @@ ul {
     }
 
     .office-img {
-        background-image: url(/content/images/office.jpg);
+        background-image: url(../images/office.jpg);
         background-size: cover;
     }
 }
@@ -305,7 +305,7 @@ ul {
     }
 
     .office-img {
-        background-image: url(/content/images/office.jpg);
+        background-image: url(../images/office.jpg);
         background-size: cover;
     }
 }
